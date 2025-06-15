@@ -1,10 +1,10 @@
 # Investor Personality × Portfolio Analysis  
 Oxford Risk — Internship Task  
-author: **\<Your Name>**
+author: **\Himanshu Gupta**
 
 ---
 
-## 🔖 Project Overview
+## Project Overview
 This repo contains all the artefacts produced for Oxford Risk’s two-dataset analysis assignment:
 
 1. **personality.csv** – 297 rows, one per investor, five psychometric traits (`confidence`, `risk_tolerance`, `composure`, `impulsivity`, `impact_desire`) + `personality_id`.
@@ -14,7 +14,7 @@ The notebooks, report files, and README explain how raw data become the final in
 
 ---
 
-## 🗂️ Repository Contents
+## Repository Contents
 
 | File / folder | What it is | How to use it |
 |---------------|------------|---------------|
